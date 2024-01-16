@@ -1,0 +1,18 @@
+
+a img .logo{
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.myBlogsBtn{
+    margin-top: 2px;
+    background: #012D30;
+    padding: 8px;
+    border-radius: 7px;
+    color: white;
+    text-decoration: none;
+}
+

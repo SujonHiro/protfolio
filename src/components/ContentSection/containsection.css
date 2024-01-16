@@ -1,0 +1,17 @@
+.infoCard{
+    margin-top: -100px;
+}
+.cardSection{
+    margin-top: -50px;
+}
+
+@media screen and (max-width: 768px) {
+    .cardSection{
+        margin-top: 0px;
+    }
+    
+}
+
+.hoverable:hover{
+    box-shadow:10px 10px lightblue solid dodgerblue;
+}
