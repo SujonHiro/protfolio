@@ -1,18 +1,18 @@
 import React from 'react';
 
 import ContentSection from '../components/ContentSection/ContentSection';
-import Work from '../components/work/Work';
+import Navbar from '../components/navbar/Navbar';
+import Expriences from '../components/work/Expriences';
 
-
-const Home = () => {
+const ExpriencesPage = () => {
     return (
         <div>
             <Navbar/>
             <ContentSection>
-                <Work/>
+               <Expriences/>
             </ContentSection>
         </div>
     );
 };
 
-export default Home;
+export default ExpriencesPage;

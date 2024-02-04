@@ -93,7 +93,7 @@ const Card = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='sm:hidden m-3'>
+                    <div className='sm:hidden m-3 bg-body-tertiary rounded p-3'>
                         <p>I am a Marketer with specialization in digitalmarketing, media planning, Strategic Planning,
                             Communication & Media buying and social mediamarketing. I am currently work as Head of Digital
                             Marketing and Media Buying at Qcoom Ltd</p>

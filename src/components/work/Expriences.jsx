@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import expriences from '../../data/expriences';
-const Work = () => {
+const Expriences = () => {
     const elements = [];
     return (
         <>
@@ -36,4 +36,4 @@ const Work = () => {
     );
 };
 
-export default Work;
+export default Expriences;
